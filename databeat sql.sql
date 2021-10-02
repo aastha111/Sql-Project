@@ -1,3 +1,5 @@
+first i would like to correct the questions that emp_id in employeestable and designation should be same else we cannnot use join.
+
 CREATED EMPLOYEES TABLE
 ---------------------------------------------------------------------------------------------
 CREATE TABLE EMPLOYEESTABLE(
